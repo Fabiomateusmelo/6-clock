@@ -1,4 +1,8 @@
 /* Layout */
+html {
+    background-color: rgb(24 24 27);
+}
+
 .main {
     display: flex;
     padding: 2em;
