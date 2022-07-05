@@ -1,8 +1,7 @@
 /* Layout */
 html {
-    background: rgb(24 24 27);
+    background-color: rgb(24 24 27);
 }
-
 
 .main {
     display: flex;
